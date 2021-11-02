@@ -1,0 +1,22 @@
+{
+  "name": "@unemati/eslint-plugin-sort-imports",
+  "version": "1.0.0",
+  "description": "Import sorting rule. Does everything ESLint 'sort-imports' does, but also allows ignoring member syntax order.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "import",
+    "sorting"
+  ],
+  "author": "Mati Kärner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unematiii/eslint-plugin-sort-imports"
+  },
+  "homepage": "https://github.com/unematiii/eslint-plugin-sort-imports",
+  "bugs": "https://github.com/unematiii/eslint-plugin-sort-imports/issues",
+  "license": "MIT"
+}
